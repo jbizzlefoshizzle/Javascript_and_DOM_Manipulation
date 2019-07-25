@@ -52,6 +52,12 @@ body {
   color: white;
 }
 
+/* Adding style to the button */
+.btn {
+  background-color: green;
+  border: white;
+}
+
 /* Adding styles to the aside and filter form */
 .ufo-form {
   margin-top: 50px;
